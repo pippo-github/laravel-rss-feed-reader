@@ -2,7 +2,7 @@
 
 ## Project description
 
-This project allows to get news via gooogle news RSS file, to use the features, go to the news item of your interest, click to select it, then press the 'Alt' key to bring up the button that points to the link of the news.
+This project allows to get news via google news RSS file, to use the features, go to the news item of your interest, click to select it, then press the 'Alt' key to bring up the button that points to the link of the news.
 
 The data is taken from the RSS Feed and then saved locally in the table: "**rss_table**" of the db: "**rss-db**"
 
