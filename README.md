@@ -35,7 +35,7 @@ Segue l'elenco delle dipendenze e dei tools di cui l'applicazione necessita per 
 ***Tools***
 
 
-* db MySQL, server, db e table
+* MySQL server, db and table
 
 
 <br>
