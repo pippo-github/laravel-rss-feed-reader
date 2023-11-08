@@ -1,0 +1,16 @@
+
+                                       
+  Command "migration" is not defined.  
+                                       
+  Did you mean one of these?           
+      make:migration                   
+      migrate                          
+      migrate:fresh                    
+      migrate:generate                 
+      migrate:install                  
+      migrate:refresh                  
+      migrate:reset                    
+      migrate:rollback                 
+      migrate:status                   
+                                       
+
